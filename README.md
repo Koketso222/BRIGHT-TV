@@ -1,2 +1,2 @@
 # BRIGHT-TV
-This project analyses the viewership of Bright TV customers
+This project analyzes the viewership of Bright TV customers
