@@ -1,5 +1,5 @@
 -- Databricks notebook source
-Code from today's class from the Notebook. Please fix the spellings, etc
+--Code from today's class from the Notebook. Please fix the spellings, etc
 
 SELECT *
 FROM brighttv_case_study.bright_tv.bright_tv_user_profiles;
